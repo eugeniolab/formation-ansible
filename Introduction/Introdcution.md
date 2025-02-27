@@ -1,4 +1,5 @@
 Introduction à Ansible
+
 Qu'est-ce qu'Ansible ?
 Ansible est un moteur d'automatisation informatique open source qui permet d'automatiser :
 
